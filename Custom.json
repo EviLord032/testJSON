@@ -1,0 +1,14 @@
+{
+    "name": "MEME Finance",
+    "symbol": "MEME",
+    "decimals": 18,
+    "description": "MEMEMEMEMEMEMEMEMEMEME",
+    "website": "https://kinetix.finance",
+    "twitter": "https://x.com/KinetixFi",
+    "logoURI": "https://res.cloudinary.com/kinetix/image/upload/v1694694179/website-assets/coins/kfi.svg",
+    "opTokenId": "KAI",
+    "addresses": {
+      "1": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
+      "8453": "0x532f27101965dd16442e59d40670faf5ebb142e4"
+    }
+}
