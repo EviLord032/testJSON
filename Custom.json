@@ -1,14 +1,37 @@
 {
-    "name": "MEME Finance",
-    "symbol": "MEME",
-    "decimals": 18,
-    "description": "MEMEMEMEMEMEMEMEMEMEME",
-    "website": "https://kinetix.finance",
-    "twitter": "https://x.com/KinetixFi",
-    "logoURI": "https://res.cloudinary.com/kinetix/image/upload/v1694694179/website-assets/coins/kfi.svg",
-    "opTokenId": "KAI",
-    "addresses": {
-      "1": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
-      "8453": "0x532f27101965dd16442e59d40670faf5ebb142e4"
+  "name": "My custom token list",
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "infrastructure"
+  ],
+  "timestamp": "2024-05-17T13:20:46.212Z",
+  "tokens": [
+    
+    {
+      "chainId": 1,
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "COLLAB"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png"
     }
+  ],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 69
+  }
 }
