@@ -1,0 +1,39 @@
+{
+  "name": "Superchain Token List",
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2024-05-17T13:20:46.212Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4FFe9CC172527DF1E40D0b2EfE1e9F05884A13dA",
+      "name": "USA Token",
+      "symbol": "USA",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0xD54EecfCA8194Cdf750033B50b559a120834990D",
+      "name": "USA Token",
+      "symbol": "USA",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  ],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 69
+  }
+}
