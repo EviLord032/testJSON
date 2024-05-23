@@ -42,9 +42,7 @@
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
       "extensions": {
-        "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
-        "opListId": "extended",
-        "opTokenId": "GENOME"
+        "baseBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
     }
   ],
