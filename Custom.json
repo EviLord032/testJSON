@@ -1,12 +1,13 @@
 {
-  "name": "My custom token list",
+  "name": "Superchain Token List",
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
   "keywords": [
+    "scaling",
+    "layer2",
     "infrastructure"
   ],
   "timestamp": "2024-05-17T13:20:46.212Z",
   "tokens": [
-    
     {
       "chainId": 1,
       "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
