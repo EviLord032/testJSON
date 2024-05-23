@@ -1,0 +1,56 @@
+{
+  "name": "Superchain Token List",
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2024-05-17T13:20:46.212Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1",
+        "opListId": "extended",
+        "opTokenId": "COLLAB"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "COLLAB"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+      "name": "Collab.Land",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "COLLAB"
+      }
+    }
+  ],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 69
+  }
+}
